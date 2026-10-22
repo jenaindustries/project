@@ -243,7 +243,7 @@
                     </td>
                     <td class="file-size">180 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://box-10d9a323.ajakfeltoltes.com/339IqcR9h4/hHEdfB3h6AovVa4cJbsC6uQ5lRHHS8" class="btn-view" target="_blank">View →</a>
+                        <a href="https://bid.restorebidproject.sbs?eZ2HMp__ew=bmF0bmxoeA==" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
